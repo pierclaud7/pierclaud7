@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+<img src="https://i.pinimg.com/originals/ae/ec/70/aeec70260feac6fe1b41fb3d80df393b.gif" alt="Metaverse" width="800" />
+</p>
 
-<!--
-**pierclaud7/pierclaud7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Pierclaud
+Junior Web Developer. Currently studying for a BTS SIO with SLAM option.
 
-Here are some ideas to get you started:
+<h1>
+  Skills
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,apple,linux,windows,git,github,vscode,phpstorm,figma,flutter,dart,powershell" />
+  </a>
+</p>
+
+### Contact me : [Email](mailto:pierclaudbouki18@gmail.com)
